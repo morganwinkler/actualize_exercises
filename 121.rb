@@ -13,3 +13,6 @@ puts string.partition('ll')
 # Write a comment describing the error message in your own words.
 
 puts 7.3.odd?
+
+# 121.rb:15:in `<main>': undefined method `odd?' for 7.3:Float (NoMethodError)
+# odd? not compatible with floats
