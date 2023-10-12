@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(212, 208, 193);
+    margin: 0 auto;
+}
+
+header {
+    border-radius: 3px;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+    background-image: url(https://marketplace.canva.com/EAFZh1d6bzM/1/0/1600w/canva-beige-earth-tone-abstract-leaf-desktop-wallpaper-Xtnwov6targ.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    background-color: rgb(212, 208, 193);
+    border-radius: 3px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: black;
+}
+
+main {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+section {
+    background-color: rgb(140, 164, 146);
+    border-radius: 3px;
+}
+
+h3 {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+ul {
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    border: 5 px;
+    border-style: dotted;
+    margin-top: 0px;
+}
