@@ -13,4 +13,6 @@ def combine_strings(string_one, string_two, string_three)
     return combined
 end
 
-pp combine_strings(string1, string2, string3)
+# pp combine_strings(string1, string2, string3)
+
+# adding more code to be able to reset Github
